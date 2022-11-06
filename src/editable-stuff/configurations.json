@@ -2,10 +2,10 @@
     "backgroundType": "gradient",
     "plainBackgroundMode": "daylight",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Allen",
+    "FirstName": "Ethan",
     "MiddleName": "",
-    "LastName": "Yan",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "LastName": "Wang",
+    "devDesc": "Not Special  ",
     "icons": [{
             "id": 0,
             "image": "fa-github",
@@ -14,8 +14,8 @@
         },
         {
             "id": 1,
-            "image": "fa-facebook",
-            "url": "https://www.facebook.com/",
+            "image": "fa-minecraft",
+            "url": "Logica1",
             "style": "socialicons"
         },
         {
@@ -32,14 +32,14 @@
         }
     ],
     "aboutHeading": "About Me",
-    "aboutDescription": "I'm Allen Yan, a software developer",
-    "projectHeading": "My Works",
+    "aboutDescription": "I'm Ethan Wang, an Ordinary Child.",
+    "projectHeading": "Definitely Mine",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "xiaoAllen1",
+    "gitHubUsername": "Ethan0nGithub",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
     "projectsLength": 4,
     "showNavigationbar": true,
     "resumeLink": "https://docs.google.com/document/u/1/d/e/2PACX-1vQvhekOawiaeHBGyJTfQiY7RMFNxPgzm9tFuy5gSfOzwOtprqTOgR5qcVAOypdX9YbBQRLG6b7Nr-pr/pub",
-    "mobileNumber": "888888888",
-    "emailId": "allenyan0817@gmail.com"
+    "mobileNumber": "Personal Info",
+    "emailId": "Personal Info"
 }
