@@ -20,14 +20,14 @@
         },
         {
             "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/",
+            "image": "fa-randomwebsite",
+            "url": "https://theuselessweb.com/",
             "style": "socialicons"
         },
         {
             "id": 3,
-            "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/",
+            "image": "fa-discord",
+            "url": "discord.com",
             "style": "socialicons"
         }
     ],
